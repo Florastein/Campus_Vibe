@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "242198394902",
+    "firebase_url": "https://project-link-5486a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "project-link-5486a",
+    "storage_bucket": "project-link-5486a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242198394902:android:856e0c6fcf17ed54299d37",
+        "android_client_info": {
+          "package_name": "com.nethub.campusvibe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242198394902-a0294fo7lrd4budbcta27jcqat59qgvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSatRFSXEj67j9Y_muVAKiCAeZl5tGk48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242198394902-88ddfq47bkcdv9m1t22rhn2g538qrt96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
