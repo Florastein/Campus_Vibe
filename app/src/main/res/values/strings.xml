@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">campusvibe</string>
+    <string name="app_name">campus vibe</string>
+    <string name="phone">Phone Number</string>
+    <string name="hone">Phone</string>
+    <string name="next">NEXT</string>
+    <string name="logo">icon</string>
+    <string name="name">Name</string>
+    <string name="sign">Sign up</string>
+    <string name="email">Email</string>
+    <string name="line">line des</string>
+    <string name="sms">Note</string>
+    <string name="account">Already Have An Account?</string>
+    <string name="in">Sign In</string>
 </resources>
